@@ -1,0 +1,15 @@
+{
+  "description": "under peaceful sunset", 
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
+  "name": "sunset#0",
+  "attributes": [
+    {
+      "trait_type": "window", 
+      "value": "half window"
+    }, 
+    {
+      "trait_type": "clothes color", 
+      "value": "black"
+    }
+  ]
+}
